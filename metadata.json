@@ -1,0 +1,6 @@
+{
+  "name": "Impulse Check",
+  "description": "An aesthetic financial sanity-check tool designed to prevent impulse purchases by visualizing costs relative to dynamic disposable income.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
